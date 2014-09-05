@@ -1,0 +1,19 @@
+[
+	{
+		"caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+		"children":
+		[{
+			"caption" : "Settings - Nicusor",
+			"command" : "open_file",
+			"args" : {"file": "${packages}/personal-sublime/Preferences.sublime-settings"}
+		},
+		{
+			"caption" : "Key Bindings - Nicusor",
+			"command" : "open_file",
+			"args" : {"file": "${packages}/personal-sublime/KeyMap.sublime-keymap"}
+		},
+		]
+	}
+]

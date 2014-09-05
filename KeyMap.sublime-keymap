@@ -1,0 +1,4 @@
+[
+	// I should change the reference to the file
+	{ "keys": ["ctrl+alt+d"], "command": "run_macro_file", "args": {"file": "Packages/personal-sublime/macros/select-subword.sublime-macro"} },
+]
