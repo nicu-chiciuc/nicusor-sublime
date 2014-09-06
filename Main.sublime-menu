@@ -12,7 +12,7 @@
 		{
 			"caption" : "Key Bindings - Nicusor",
 			"command" : "open_file",
-			"args" : {"file": "${packages}/personal-sublime/KeyMap.sublime-keymap"}
+			"args" : {"file": "${packages}/personal-sublime/Default (Windows).sublime-keymap"}
 		},
 		]
 	}
