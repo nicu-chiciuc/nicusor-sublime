@@ -5,5 +5,5 @@
 	[
 		"Vintage"
 	],
-	"theme": "Minimal.sublime-theme"
+	"spell_check": true,
 }
