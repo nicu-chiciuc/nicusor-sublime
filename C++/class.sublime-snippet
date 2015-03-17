@@ -11,11 +11,11 @@ class ${1:Test} {
 
 		$1 & operator= ($1 const & other) {
 			return * this;
-			}
+		}
 		
 		~$1 () {}
 	
-	};
+};
 ]]></content>
 	<tabTrigger>class</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->

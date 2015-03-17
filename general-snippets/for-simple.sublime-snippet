@@ -2,7 +2,7 @@
 	<content><![CDATA[
 for (var ${1:i} = ${2:0}; ${1:i} < $3; ${1:i}${4:++}) {
 	$0
-	}]]></content>
+}]]></content>
 	<tabTrigger>for</tabTrigger>
 	<scope>source.js, source.c, source.objc, source.c++, source.objc++, source.cuda-c++</scope>
 	<description>Simple for expression</description>
