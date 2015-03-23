@@ -1,0 +1,13 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Chain of Command",
+		"dired",
+		"EasyMotion",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
