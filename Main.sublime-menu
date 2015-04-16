@@ -7,12 +7,12 @@
 		[{
 			"caption" : "Settings - Nicusor",
 			"command" : "open_file",
-			"args" : {"file": "${packages}/nicusor-sublime/Preferences.sublime-settings"}
+			"args" : {"file": "${packages}/nicusor-sublime/Nicusor Settings.sublime-settings"}
 		},
 		{
 			"caption" : "Key Bindings - Nicusor",
 			"command" : "open_file",
-			"args" : {"file": "${packages}/nicusor-sublime/Default (Windows).sublime-keymap"}
+			"args" : {"file": "${packages}/nicusor-sublime/Nicusor Keymap.sublime-keymap"}
 		},
 		]
 	}
